@@ -1,0 +1,57 @@
+package com.infosys.expenseManagementApplication.dao.customer;
+
+import java.util.List;
+
+import com.infosys.expenseManagementApplication.bean.Customer;
+
+public class CustomerDaoImpl implements CustomerDao {
+
+	@Override
+	public void save(Customer customer) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Customer getCustomerById(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Customer> getAllCustomers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String generateCustomerById() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Customer> getCurrentCustomers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getCustomerStatusByUsername(String username) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Customer getCustomerByUsername(String username) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Customer getCustomerByEmail(String email) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

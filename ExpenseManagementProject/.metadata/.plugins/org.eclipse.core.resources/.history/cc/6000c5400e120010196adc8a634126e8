@@ -1,0 +1,51 @@
+package com.infosys.expenseManagementApplication.dao.expense;
+
+import java.util.List;
+
+import com.infosys.expenseManagementApplication.bean.Expense;
+
+public class ExpenseDaoImpl implements ExpenseDao {
+
+	@Override
+	public void save(Expense expense) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public String generateExpenseById() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Expense getExpenseById(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteExpenseById(String id) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public List<Expense> getAllExpenses() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Expense> getExpenseByCategory(Long categoryId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Expense> getExpenseByCustomer(String customerId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

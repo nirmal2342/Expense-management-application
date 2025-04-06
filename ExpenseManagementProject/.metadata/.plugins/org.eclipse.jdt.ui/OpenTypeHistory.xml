@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=expenseManagementApplication/C:\/Users\/nirma\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.5.3.Final\/hibernate-core-6.5.3.Final.jar&lt;org.hibernate.type.descriptor.converter.spi(JpaAttributeConverter.class[JpaAttributeConverter" modifiers="1537" timestamp="1739368692836"/>
+    <typeInfo handle="=expenseManagementApplication/C:\/Users\/nirma\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.3.8\/spring-data-jpa-3.3.8.jar&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1739368693626"/>
+    <typeInfo handle="=expenseManagementApplication/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.infosys.expenseManagementApplication.dao.category{CategoryDao.java[CategoryDao" modifiers="513" timestamp="1743845419206"/>
+    <typeInfo handle="=expenseManagementApplication/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.infosys.expenseManagementApplication.dao.customer{CustomerDao.java[CustomerDao" modifiers="513" timestamp="1743845648271"/>
+    <typeInfo handle="=expenseManagementApplication/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.infosys.expenseManagementApplication.dao.expense{ExpenseDao.java[ExpenseDao" modifiers="513" timestamp="1743845788670"/>
+</typeInfoHistroy>
